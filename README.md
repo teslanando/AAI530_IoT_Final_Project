@@ -26,4 +26,7 @@ To use this project, follow these steps:
     Place your dataset in the root directory or update the dataset path in the script.
     Run the script to train the model and evaluate its performance.
 
+## Tableau Dashboard
+The dashboard can be found by visiting the following link (based on the predictions.csv file created at the end of this project)
+https://public.tableau.com/views/IoTFinalProjectTeam7/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
     
