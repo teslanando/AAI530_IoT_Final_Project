@@ -1,4 +1,4 @@
-# Temperature Prediction Model
+# Power Usage and Temperature Prediction Model
 University of San Diego | IoT Final Project | Team 7
 
 ## Project Overview
