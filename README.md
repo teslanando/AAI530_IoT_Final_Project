@@ -28,5 +28,5 @@ To use this project, follow these steps:
 
 ## Tableau Dashboard
 The dashboard can be found by visiting the following link (based on the predictions.csv file created at the end of this project)
-https://public.tableau.com/views/IoTFinalProjectTeam7/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/fernando.calderon5033/viz/Team7_IoT_Final/IoTDashboard
     
